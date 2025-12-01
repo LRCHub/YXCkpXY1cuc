@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "시간을 달려서 (Rough)",
+  "base_artist": "GFRIEND",
+  "createdAt": "2025-12-01T07:15:41.514933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "시간을 달려서 Rough",
+      "artist": "Gummy",
+      "has_synced": false,
+      "path": "select/01_시간을_달려서_Rough_Gummy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "시간을 달려서 (김삿갓 김삿갓 김김 삿갓삿갓 베트남소녀)",
+      "artist": "MINSEO",
+      "has_synced": false,
+      "path": "select/02_시간을_달려서_(김삿갓_김삿갓_김김_삿갓삿갓_베트남소녀)_MINSEO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "시간을 달려서",
+      "artist": "PAKAOWLLA",
+      "has_synced": true,
+      "path": "select/03_시간을_달려서_PAKAOWLLA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "시간을 달려서 (Rough)",
+      "artist": "여자친구 (GFRIEND)",
+      "has_synced": true,
+      "path": "select/04_시간을_달려서_(Rough)_여자친구_(GFRIEND).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "시간을 달려서 (Rough)",
+      "artist": "여자친구",
+      "has_synced": false,
+      "path": "select/pl_01_시간을_달려서_(Rough)_여자친구.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "시간을 달려서 Rough",
+      "artist": "여자친구",
+      "has_synced": false,
+      "path": "select/pl_02_시간을_달려서_Rough_여자친구.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rough",
+      "artist": "여자친구",
+      "has_synced": false,
+      "path": "select/pl_03_Rough_여자친구.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "시간을 달려서 (Rough)",
+      "artist": "여자친구",
+      "has_synced": false,
+      "path": "select/pl_04_시간을_달려서_(Rough)_여자친구.txt"
+    }
+  ]
+}
